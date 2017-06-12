@@ -11,7 +11,7 @@
     <buton id="menubutt">Menu</buton>
         <div id="menucont">
             <a href="index.php">Home</a>
-            <a href="src/categories.php">Categories</a>
+            <a href="categories.php">Categories</a>
             <a>Topics</a>
             <a>Contact</a>
             <a>24/7 Chat</a>
