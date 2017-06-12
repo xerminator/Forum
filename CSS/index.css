@@ -7,18 +7,17 @@ body {
 
 }
 
-#menu {
-    background-color: black;
-    color: white;
-    padding: 16px;
-    font-size: 16px;
-    border: none;
-    cursor: pointer;
+#logo {
+    margin: 0;
+    position: absolute;
 }
 
 #menu {
     position: absolute;
     display: inline-block;
+    background-color: transparent;
+    color: white;
+    font-size: 28px;
 }
 
 #menucont {

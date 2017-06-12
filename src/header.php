@@ -6,14 +6,13 @@
 </head>
 
 <body>
-
 <div id="menu">
     <buton id="menubutt">Menu</buton>
         <div id="menucont">
             <a href="index.php">Home</a>
             <a href="categories.php">Categories</a>
-            <a>Topics</a>
-            <a>Contact</a>
-            <a>24/7 Chat</a>
+            <a href="topics.php">Topics</a>
+            <a href="contact.php">Contact</a>
+            <a href="chat.php">24/7 Chat</a>
         </div>
 </div>
