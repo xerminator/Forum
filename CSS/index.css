@@ -42,3 +42,7 @@ body {
 #menu:hover #menucont {
     display: block;
 }
+
+#white {
+    background-color: white;
+}
