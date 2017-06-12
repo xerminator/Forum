@@ -2,7 +2,7 @@
 
 <head>
     <title>Forum</title>
-    <link rel="stylesheet" href="CSS/index.css" type="text/css">
+    <link rel="stylesheet" href="../CSS/index.css" type="text/css">
 </head>
 
 <body>
